@@ -1,1 +1,1 @@
-bootnode -nodekey ./bootnode/boot.key -addr :30301
+bootnode -nodekey ./bootnode/boot.key -verbosity 9 -addr :30301
